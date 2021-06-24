@@ -2,8 +2,7 @@ mensaje secreto
 mensaje secreto 22
 mensaje secreto para hacer un pull-request
 master 1
-<<<<<<< HEAD
 master 2   
-=======
-experimento 1   
->>>>>>> exp 1
+experimento 1
+experimento 2  
+
